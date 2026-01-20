@@ -1,12 +1,103 @@
-# React + Vite
+# Internship Hiring Landing Page 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Internship Hiring Landing Page** built using **React, Material UI, and Tailwind CSS**.  
+This project is designed to collect internship applications and showcase roles, benefits, testimonials, and contact details in a clean startup-style UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔥 Features
 
-## Expanding the ESLint configuration
+- Modern landing page design
+- Responsive layout (mobile, tablet, desktop)
+- Sticky navbar with smooth scrolling
+- Internship roles section
+- Benefits section with icons
+- Testimonials section
+- Apply form with icons inside inputs
+- Footer with quick links & contact details
+- Clean UI using MUI + Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- **React (Vite)**
+- **Material UI (MUI)**
+- **Tailwind CSS**
+- **MUI Icons**
+
+---
+
+## 📂 Project Structure
+
+src/
+├── assets/
+│ ├── logo.png
+│ ├── form.png
+│ └── testimonial images
+│
+├── components/
+│ ├── Navbar.jsx
+│ ├── Home.jsx
+│ ├── Roles.jsx
+│ ├── Benefits.jsx
+│ ├── Testimonials.jsx
+│ ├── Apply.jsx
+│ └── Footer.jsx
+│
+├── App.jsx
+├── main.jsx
+└── index.css
+
+
+---
+
+## ⚙️ Installation & Setup
+
+1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/internship-landing-page.git
+
+2️⃣ Go to project directory
+
+cd internship-landing-page
+
+3️⃣ Install dependencies
+
+npm install
+
+4️⃣ Start development server
+
+npm run dev
+
+🌐 Sections Overview
+
+Hero Section – Intro & CTA
+
+Roles – Tech, Marketing, Design internships
+
+Benefits – Stipend, Certificate, Mentorship, Projects
+
+Testimonials – Dummy user reviews
+
+Apply Form – Internship application form
+
+Footer – Quick links & contact info
+
+🎨 Color Palette
+
+Dark Blue: #222F59
+
+Light Blue: #8DD8F7
+
+White: #FFFFFF
+
+
+📄 License
+
+This project is for learning and demo purposes.
+
+👩‍💻 Author
+
+Nayanshree Soni
+Feel free to connect on LinkedIn 🚀
