@@ -1,0 +1,3 @@
+colors:
+dark blue: #222F59
+light blue: #8DD8F7
