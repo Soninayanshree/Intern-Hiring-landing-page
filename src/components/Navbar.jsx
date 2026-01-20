@@ -10,11 +10,11 @@ export default function Navbar() {
     <nav className="sticky top-0 z-50 bg-white shadow-md">
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
         
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 ">
           <img
             src={logo}
             alt="Internship"
-            className="h-20 object-contain"
+            className="h-12 object-contain md:h-20"
           />
           <span className="text-3xl font-bold text-[#8DD8F7] hidden sm:block">
             InternHire
